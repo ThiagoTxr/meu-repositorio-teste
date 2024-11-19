@@ -4,4 +4,5 @@
 
 1. Criar um repositório em algum diretório desejado.
 2. Clonar algum repositório remoto para um diretório local.
-3. Alterar arquivos. 
+3. Alterar arquivos.
+4. Teste para criar uma nova branch.
